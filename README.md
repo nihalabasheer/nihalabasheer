@@ -7,15 +7,16 @@
 ## 🚀 Featured Projects
 
 ### 👁️ SmartVision
-AI-powered accessibility application that uses real-time object detection and voice-guided assistance to help visually impaired users navigate safely and independently.
-
-### 📡 ConnectX
-Offline communication application leveraging Wi-Fi Direct and WebRTC for peer-to-peer messaging and file transfer without internet connectivity.
+Developed a real-time object detection system using a fine-tuned YOLOv8 model and TensorFlow Lite to detect obstacles and environmental features on-device, providing intelligent voice-guided assistance for visually impaired users.
 
 ### 🏙️ CivicFix
-AI-powered civic issue reporting platform that detects and classifies infrastructure issues and automates report routing to relevant authorities.
+Built an AI-powered infrastructure monitoring platform that uses YOLOv8-based object detection and classification to identify civic issues from images and automate complaint routing workflows.
 
-## 🛠️ Tech Stack
+### 📡 ConnectX
+Developed an offline communication platform using Wi-Fi Direct and WebRTC, enabling secure peer-to-peer messaging and file sharing without internet access.
+## 
+
+🛠️ Tech Stack
 
 **Languages**
 - Python
